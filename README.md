@@ -18,7 +18,7 @@
 - 👨🏽‍💻 I’m currently working on LLMs, agents, and practical ML systems;
 - 🌱 I’m currently learning research engineering, AI agent systems, and macOS app development;
 - 👯 I’m looking to collaborate on open-source AI tools, research prototypes, and useful developer utilities;
-- 🤔 I’m interested in reliable ML systems, long-context agents, and reproducible experiments;
+- 🤔 I’m interested in long-context agents, and reproducible experiments;
 - 💬 Ask me about AI, machine learning, agents, Python, or technical writing;
 - ⚡️ Fun-Fact: I write technical notes on my blog and build small tools for real workflows;
 - 📫 How to reach me: kaizhou0305@gmail.com;
