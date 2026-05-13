@@ -26,10 +26,6 @@
 **Languages and Tools:** 
 
 <p>
-  <a href="https://github.com/zkforge">
-    <img height="180" align="right" alt="Kai Zhou's github stats" src="https://github-readme-stats.vercel.app/api?username=zkforge&show_icons=true&hide_border=true" />
-  </a>
-
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
